@@ -1,5 +1,5 @@
 # Scientific Paper Summarizer
-This Python script is designed to load a PDF file of a scientific paper, extract its relevant content, and generate a structured summary using a language model. The script then saves the summary in a Markdown file for easy sharing and review.
+This Python script is designed to load and scrape a PDF file of a scientific paper, and generate a structured summary using a language model. The script then saves the summary in a Markdown file for easy sharing and review.
 
 ## Features
 - **PDF Extraction:** The script extracts content from PDF files using the PyPDFLoader from the langchain library.
